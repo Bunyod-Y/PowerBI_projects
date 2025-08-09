@@ -1,5 +1,7 @@
 📊 Power BI Projects Portfolio
-Welcome to my Power BI Projects Repository! This collection showcases my hands-on work with real-world datasets using Microsoft Power BI. Each project highlights different data visualization techniques, DAX measures, data modeling strategies, and storytelling approaches to derive meaningful business insights.
+
+Welcome to my Power BI Projects Repository! This collection showcases my hands-on work with real-world datasets using Microsoft Power BI.
+Each project highlights different data visualization techniques, DAX measures, data modeling strategies, and storytelling approaches to derive meaningful business insights.
 
 🧠 Skills Demonstrated
 Data Cleaning & Transformation (Power Query)
@@ -20,23 +22,7 @@ Real-time Dashboards
 
 Data Storytelling
 
-📁 Repository Structure
-bash
-Copy
-Edit
-/power-bi-projects/
-│
-├── 📂 Project_Name_1/
-│   ├── Project_Report.pbix
-│   ├── README.md
-│   └── dataset.csv
-│
-├── 📂 Project_Name_2/
-│   ├── Project_Report.pbix
-│   ├── README.md
-│   └── dataset.xlsx
-│
-└── ...
+
 Each folder includes:
 
 .pbix Power BI file
@@ -75,7 +61,7 @@ Feel free to reach out or connect with me:
 
 📧 Email: bunyodyokubov3102@gmail.com
 
-🌐 LinkedIn: www.linkedin.com/in/bunyodyoqubov
+🌐 LinkedIn: www.linkedin.com/in/Bunyod-Y
 
-🗃️ Portfolio: https://bunyodyokubov.medium.com
+
 
